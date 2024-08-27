@@ -1,0 +1,201 @@
+[
+  {
+    "question": "While working on the mural, one group noticed a shape. What name best describes this shape?",
+    "options": [
+      "Kite",
+      "Rhombus",
+      "Rectangle",
+      "Trapezium"
+    ],
+    "correct": 1,
+      "img": "./assests/images/1.jpg"
+  },
+  {
+    "question": "Another group created a shape as shown below. What name best describes this shape?",
+    "options": [
+      "Parallelogram",
+      "Rectangle",
+      "Trapezium",
+      "Kite"
+    ],
+    "correct": 2,
+      "img": "./assests/images/2.jpg"
+  },
+  {
+    "question": "One section of the mural featured a shape shown below. What name best describes this shape?",
+    "options": [
+      "Rectangle",
+      "Square",
+      "Trapezium",
+      "Square"
+    ],
+    "correct": 0,
+      "img": "./assests/images/3.jpg"
+  },
+  {
+    "question": "During their project, a student asked, 'Which of the following is not a quadrilateral?'",
+    "options": [
+      "Square",
+      "Triangle",
+      "Rectangle",
+      "Rhombus"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "The students wanted to include a regular quadrilateral in the mural. Which one of the following should they choose?",
+    "options": [
+      "Square",
+      "Trapezium",
+      "Kite",
+      "Rectangle"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "One group found a parallelogram which has equal diagonals. What do you call this shape?",
+    "options": [
+      "Trapezium",
+      "Rectangle",
+      "Rhombus",
+      "Kite"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "A team decided to use a quadrilateral with all sides equal and diagonals that bisect each other at right angles. Which shape did they choose?",
+    "options": [
+      "Square",
+      "Rectangle",
+      "Rhombus",
+      "Trapezium"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "They come across a unique quadrilateral with specific properties. Which of the following describe a quadrilateral kite found in the mansion?",
+    "options": [
+      "Diagonals are perpendicular to each other.",
+      "Opposite sides equal",
+      "Opposite angles equal",
+      "Each angle is a right angle"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "In another section, they included a shape which has only one pair of parallel sides. Which of the following describes this quadrilateral found in the mural?",
+    "options": [
+      "Rectangle",
+      "Square",
+      "Trapezium",
+      "Rhombus"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "The students discovered that a certain quadrilateral has equal diagonals that bisect each other at right angles. What is this shape?",
+    "options": [
+      "Rectangle",
+      "Rhombus",
+      "Parallelogram",
+      "Kite"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "One group noticed a shape in their mural that had only one pair of opposite angles that were equal. What name best describes this shape?",
+    "options": [
+      "Parallelogram",
+      "Rectangle",
+      "Rhombus",
+      "Trapezium"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "A new section of the mural depicts a quadrilateral where the diagonals are always equal in length and bisect each other but not at 90 degrees. Which of the following shapes is described by this property?",
+    "options": [
+      "Rectangle",
+      "Square",
+      "Rhombus",
+      "Kite"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "In their mural, the students included a quadrilateral where the sum of the interior angles is 360 degrees, and only one pair of sides is parallel. Which shape does this describe?",
+    "options": [
+      "Trapezium",
+      "Rhombus",
+      "Parallelogram",
+      "Rectangle"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "While working on their section of the mural, one group used a shape with all sides equal, but the angles were not necessarily 90 degrees. What name best describes this shape?",
+    "options": [
+      "Rhombus",
+      "Rectangle",
+      "Kite",
+      "Parallelogram"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "During the mural project, a group chose a quadrilateral where the diagonals are always perpendicular, but the sides are not necessarily all equal. What is this shape called?",
+    "options": [
+      "Rectangle",
+      "Parallelogram",
+      "Kite",
+      "Square"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "A student in one group described their quadrilateral with one pair of opposite angles that are supplementary. What name best describes this shape?",
+    "options": [
+      "Rhombus",
+      "Rectangle",
+      "Kite",
+      "Trapezium"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "While exploring the mural, a student discovered a quadrilateral where all sides were of equal length and each pair of opposite angles was equal.<br>“This shape is a rhombus.”",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "In a section of the mural, the students depicted that 'In a parallelogram, opposite sides are parallel, and opposite angles are equal.' Is the given statement true or false?",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "In one part of the mural, the students used a shape where all angles were equal to each other, though the sides were not necessarily all the same length. What is this shape?",
+    "options": [
+      "Rectangle",
+      "Rhombus",
+      "Square",
+      "Parallelogram"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "The mural featured a quadrilateral where the diagonals are bisected by each other but are not necessarily equal in length. What is this shape?",
+    "options": [
+      "Rectangle",
+      "Kite",
+      "Parallelogram",
+      "Trapezium"
+    ],
+    "correct": 2
+  }
+]
